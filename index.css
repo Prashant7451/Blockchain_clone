@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+}
+div {
+    display: block;
+}
+.cCjakL {
+    color: rgb(255, 255, 255);
+margin: auto;
+    /* margin-bottom: 1.5rem; */
+}
+
+
+.kRtqet {
+    font-size: 3rem;
+    font-weight: 600;
+    line-height: 3.625rem;
+}
+.cePXDf {
+    background-color: rgb(20, 70, 153);
+    background-image: url(https://www.blockchain.com/static/img/home/home-hero-gradient.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom;
+    color: rgb(255, 255, 255);
+}
+
+.ldGnJz {
+    max-width: 43.3125rem;
+    padding: 10.625rem 0px;
+}
+
+.banner{
+    position: relative;
+
+}
+.banner img{
+    max-width: 100%;
+}
+.banner .welcome{
+    /* background-color: #feb614; */
+    color: aliceblue;
+    padding: 20px;
+    position: absolute;
+    left: 0;
+    top:40%;
+    text-align: center;
+}
+.banner h2{
+/* font-size: 150%; */
+font-weight: bold;
+}
+
+.starting{
+    display: flex;
+    position: fixed;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    font-weight: 700;
+    width: 100%;
+    height: fit-content;
+    color: white;
+    font-size: 1rem;
+    z-index: 10;
+    background-image: linear-gradient(to right, rgb(9, 86, 191), rgb(4, 64, 143), rgb(2, 54, 120), rgb(4, 64, 143), rgb(9, 86, 191));
+    padding: 0.75rem 1rem;
+    text-decoration: none;
+    font-size: large;
+}
+.y{
+    background-color: rgb(213, 238, 121);
+}
+.main{
+    background-image: linear-gradient(to right, rgb(3, 32, 73), rgb(5, 47, 102), rgb(125, 9, 145), rgb(167, 14, 154), rgb(132, 9, 160));
+    width: 100%;
+    height: 650px;;
+}
+.welcome{
+    padding-top:15% ;
+    padding-right: 18%;
+    text-align: center;
+    color:rgb(243, 248, 248);
+}
+.lfCkyW {
+    font-size: 0.875rem;
+    line-height: 143%;
+    padding: 0.625rem 0.875rem;
+}
+.lfCkyW {
+    display: inline-flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0.75rem 1.375rem;
+    font-size: 1.125rem;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+    line-height: 144%;
+    border-radius: 0.5rem;
+    border: 0.125rem solid transparent;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    white-space: nowrap;
+    background-color: rgb(12, 108, 242);
+    color: rgb(255, 255, 255);
+}
+a {
+    text-decoration: none;
+    color: var(--grey900);
+}
+.fHyAFW {
+    margin-left: 20px;
+}
+.yTuQg {
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 100%;
+}
+/* .e:hover{
+    background-color:white;
+  }
+   */
+   /* .navbar{
+    z-index: 10;
+   } */
+  /* nav{
+    background-color: #5544a9;
+    padding: 20px;
+    /* position: sticky; */
+    /* top:1000px;
+    /* z-index: 10; */
+    /* overflow-y: visible; */
+/* } */
+/* nav ul{
+    white-space: nowrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+nav li a{
+    text-decoration: none;
+    color: #4b4b4b;
+}
+nav li{
+display: inline-block;
+width: 25%;
+}
+nav li .join{
+    color: #f63232;
+}  */
+
+
+
+
+
